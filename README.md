@@ -17,7 +17,7 @@ This ia a simple Youtube Video Downloader that takes a URL input and saves the v
   source env/scripts/activate
   ```
 
-If you get an error when running the pythonn file, update pytube3
+If you get an error while running the pythonn file, update pytube3
 ```
 python -m pip install --upgrade pytube
 ```
